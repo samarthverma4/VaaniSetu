@@ -173,7 +173,7 @@ before reusing or redistributing any part of this codebase.
 ## Acknowledgments
  
 - Curriculum content adapted from the Jharkhand School Education Department's
-  Class 1–5 syllabus.
+  Class 1–5th syllabus.
 - Built on the open-source [sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx),
   [IndicTrans2](https://github.com/AI4Bharat/IndicTrans2), and
   [Piper](https://github.com/rhasspy/piper) projects.
